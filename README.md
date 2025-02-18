@@ -60,6 +60,4 @@ This project applies **supervised learning** to predict student dropout risk bas
 
 ---
 
-This README is structured for clarity and technical relevance, making it suitable for **data scientists, hiring managers, and peers reviewing the project**. 🚀  
-
 
