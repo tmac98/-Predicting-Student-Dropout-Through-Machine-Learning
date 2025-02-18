@@ -39,6 +39,7 @@ This project applies **supervised learning** to predict student dropout risk bas
 ## 📂 Project Files  
 
 📄 **Jupyter Notebook**: [`Predicting_Student_Dropout.ipynb`](Predicting_Student_Dropout.ipynb) 
+
 📑 **Business Report**: [`Predicting_Student_Dropout_Report.pdf`](Predicting_Student_Dropout_Report.pdf)
 
 ---
